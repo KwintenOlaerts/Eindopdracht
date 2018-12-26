@@ -1,0 +1,21 @@
+.Movies {
+    display: flex;
+   flex-direction: row;
+   align-items: center;
+   justify-content: flex-end;
+}
+
+.Movies2 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.Movies3 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    
+}
